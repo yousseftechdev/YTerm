@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/yousseftechdev/yousseftechdev/master/README.md",
+  "title": "YTerm - Personal Portfolio",
+  "name": "Youssef Mostafa",
+  "ascii": "yt",
+  "social": {
+    "github": "yousseftechdev",
+    "linkedin": "linkedin"
+  },
+  "email": "youssefmostafa200895@email.com",
+  "ps1_hostname": "yterm",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/yousseftechdev/YTerm",
+  "portfolio_url": "https://yousseftechdev.github.io/NewModernPortfolio",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1c1c1c",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#A89984",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
